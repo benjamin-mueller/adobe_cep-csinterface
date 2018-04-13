@@ -1,0 +1,62 @@
+{
+  "_from": "csinterface-ts",
+  "_id": "csinterface-ts@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha1-WUUEH+AInuLHk8bhOoE0Ay8BGO8=",
+  "_location": "/csinterface-ts",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "csinterface-ts",
+    "name": "csinterface-ts",
+    "escapedName": "csinterface-ts",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/csinterface-ts/-/csinterface-ts-1.0.3.tgz",
+  "_shasum": "5945041fe0089ee2c793c6e13a8134032f0118ef",
+  "_spec": "csinterface-ts",
+  "_where": "/Users/bmuller/IdeaProjects/angular-tour-of-heroes",
+  "author": {
+    "name": "brightshadow86@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/BrightShadow/CSInterface-TS/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Custom implementation of Adobe extensions CSInterface library v7.x, in Typescript.",
+  "homepage": "https://github.com/BrightShadow/CSInterface-TS#readme",
+  "keywords": [
+    "typescript",
+    "csinterface",
+    "adobe",
+    "cep",
+    "extension",
+    "plugin"
+  ],
+  "license": "MIT",
+  "main": "dist/csinterface-ts.js",
+  "maintainers": [
+    {
+      "name": "Pawel Porombka",
+      "email": "brightshadow86@gmail.com"
+    }
+  ],
+  "name": "csinterface-ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrightShadow/CSInterface-TS.git"
+  },
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 1"
+  },
+  "typings": "dist/csinterface-ts",
+  "version": "1.0.3"
+}
